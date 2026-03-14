@@ -1,0 +1,32 @@
+[
+    {
+        "type": "Solemnity",
+        "name": "Lễ Giáng Sinh",
+        "date": "2026-12-25"
+    },
+    {
+        "type": "Solemnity",
+        "name": "Lễ Phục Sinh",
+        "date": "2026-04-17"
+    },
+    {
+        "type": "Feast",
+        "name": "Lễ Trời Thăng",
+        "date": "2026-05-26"
+    },
+    {
+        "type": "Feast",
+        "name": "Lễ Thánh Phêrô và Phaolô",
+        "date": "2026-06-29"
+    },
+    {
+        "type": "Memorial",
+        "name": "Lễ Các Thánh",
+        "date": "2026-11-01"
+    },
+    {
+        "type": "Memorial",
+        "name": "Lễ Thánh Giuse",
+        "date": "2026-03-19"
+    }
+]
